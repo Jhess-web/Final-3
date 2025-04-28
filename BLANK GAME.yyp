@@ -47,7 +47,6 @@
     {"id":{"name":"Obj_jumper","path":"objects/Obj_jumper/Obj_jumper.yy",},},
     {"id":{"name":"Obj_label_parent","path":"objects/Obj_label_parent/Obj_label_parent.yy",},},
     {"id":{"name":"Obj_label_text1","path":"objects/Obj_label_text1/Obj_label_text1.yy",},},
-    {"id":{"name":"Obj_label_text2","path":"objects/Obj_label_text2/Obj_label_text2.yy",},},
     {"id":{"name":"Obj_platform_child_1","path":"objects/Obj_platform_child_1/Obj_platform_child_1.yy",},},
     {"id":{"name":"Obj_platform_child","path":"objects/Obj_platform_child/Obj_platform_child.yy",},},
     {"id":{"name":"Obj_platform_parent","path":"objects/Obj_platform_parent/Obj_platform_parent.yy",},},
@@ -58,7 +57,6 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
     {"id":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
-    {"id":{"name":"Room5","path":"rooms/Room5/Room5.yy",},},
     {"id":{"name":"Spr_Bert_jump","path":"sprites/Spr_Bert_jump/Spr_Bert_jump.yy",},},
     {"id":{"name":"Spr_Bert_walking1","path":"sprites/Spr_Bert_walking1/Spr_Bert_walking1.yy",},},
     {"id":{"name":"Spr_Bert_walking2","path":"sprites/Spr_Bert_walking2/Spr_Bert_walking2.yy",},},
@@ -90,7 +88,6 @@
     {"roomId":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
-    {"roomId":{"name":"Room5","path":"rooms/Room5/Room5.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

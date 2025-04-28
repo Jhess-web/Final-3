@@ -5,7 +5,7 @@
   "managed":true,
   "name":"Obj_label_text1",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"Obj_label_parent","path":"objects/Obj_label_parent/Obj_label_parent.yy",},"propertyId":{"name":"text_data","path":"objects/Obj_label_parent/Obj_label_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\\nBert the ball is a beginner level platformer game project about collecting power ups,\\n avoiding obstacles and making it to the end of the level. ",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"Obj_label_parent","path":"objects/Obj_label_parent/Obj_label_parent.yy",},"propertyId":{"name":"text_data","path":"objects/Obj_label_parent/Obj_label_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\\nBert the ball is a beginner level platformer game project about collecting power ups, avoiding obstacles and making it to the end of the level. ",},
   ],
   "parent":{
     "name":"Objects",
