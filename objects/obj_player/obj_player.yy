@@ -42,6 +42,8 @@
     {"$GMObjectProperty":"v1","%Name":"collision_Temp_Tiles_death_zone","filters":[],"listItems":[],"multiselect":false,"name":"collision_Temp_Tiles_death_zone","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":0,},
     {"$GMObjectProperty":"v1","%Name":"Double_jump","filters":[],"listItems":[],"multiselect":false,"name":"Double_jump","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"2","varType":0,},
     {"$GMObjectProperty":"v1","%Name":"Double_jump_mode","filters":[],"listItems":[],"multiselect":false,"name":"Double_jump_mode","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":0,},
+    {"$GMObjectProperty":"v1","%Name":"controls_input_left","filters":[],"listItems":[],"multiselect":false,"name":"controls_input_left","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":0,},
+    {"$GMObjectProperty":"v1","%Name":"controls_input_right","filters":[],"listItems":[],"multiselect":false,"name":"controls_input_right","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":0,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
