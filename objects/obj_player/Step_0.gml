@@ -24,8 +24,9 @@ show_debug_message(string(move_x));
 /// @DnDArgument : "x_relative" "1"
 /// @DnDArgument : "y" "2"
 /// @DnDArgument : "y_relative" "1"
-/// @DnDArgument : "object" "collision_tilemap"
-var l2FBF0F42_0 = instance_place(x + 0, y + 2, [collision_tilemap]);
+/// @DnDArgument : "object" "Obj_platform_parent"
+/// @DnDSaveInfo : "object" "Obj_platform_parent"
+var l2FBF0F42_0 = instance_place(x + 0, y + 2, [Obj_platform_parent]);
 if ((l2FBF0F42_0 > 0))
 {
 	/// @DnDAction : YoYo Games.Common.Variable
