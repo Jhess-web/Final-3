@@ -37,6 +37,7 @@
   "resources":[
     {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
     {"id":{"name":"Obj_button","path":"objects/Obj_button/Obj_button.yy",},},
+    {"id":{"name":"Obj_button2","path":"objects/Obj_button2/Obj_button2.yy",},},
     {"id":{"name":"Obj_clear","path":"objects/Obj_clear/Obj_clear.yy",},},
     {"id":{"name":"Obj_cloud","path":"objects/Obj_cloud/Obj_cloud.yy",},},
     {"id":{"name":"Obj_coin","path":"objects/Obj_coin/Obj_coin.yy",},},
@@ -55,6 +56,7 @@
     {"id":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
+    {"id":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
     {"id":{"name":"Spr_Bert_jump","path":"sprites/Spr_Bert_jump/Spr_Bert_jump.yy",},},
     {"id":{"name":"Spr_Bert_walking1","path":"sprites/Spr_Bert_walking1/Spr_Bert_walking1.yy",},},
     {"id":{"name":"Spr_Bert_walking2","path":"sprites/Spr_Bert_walking2/Spr_Bert_walking2.yy",},},
@@ -83,6 +85,7 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
+    {"roomId":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
   ],
