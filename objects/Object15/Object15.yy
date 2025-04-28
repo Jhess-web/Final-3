@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_invisible",
+  "%Name":"Object15",
   "eventList":[],
   "managed":true,
-  "name":"Obj_invisible",
+  "name":"Object15",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_invisible",
-    "path":"sprites/Spr_invisible/Spr_invisible.yy",
+    "name":"Spr_platform_parent",
+    "path":"sprites/Spr_platform_parent/Spr_platform_parent.yy",
   },
   "spriteMaskId":null,
   "visible":true,
