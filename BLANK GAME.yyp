@@ -35,6 +35,7 @@
   "name":"BLANK GAME",
   "resources":[
     {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
+    {"id":{"name":"Obj_cloud","path":"objects/Obj_cloud/Obj_cloud.yy",},},
     {"id":{"name":"Obj_coin","path":"objects/Obj_coin/Obj_coin.yy",},},
     {"id":{"name":"Obj_hud_coins","path":"objects/Obj_hud_coins/Obj_hud_coins.yy",},},
     {"id":{"name":"Obj_invisible","path":"objects/Obj_invisible/Obj_invisible.yy",},},
@@ -51,6 +52,7 @@
     {"id":{"name":"Spr_Bert_walking2","path":"sprites/Spr_Bert_walking2/Spr_Bert_walking2.yy",},},
     {"id":{"name":"Spr_Bert","path":"sprites/Spr_Bert/Spr_Bert.yy",},},
     {"id":{"name":"Spr_charcter","path":"sprites/Spr_charcter/Spr_charcter.yy",},},
+    {"id":{"name":"Spr_cloud","path":"sprites/Spr_cloud/Spr_cloud.yy",},},
     {"id":{"name":"Spr_coin_counter","path":"sprites/Spr_coin_counter/Spr_coin_counter.yy",},},
     {"id":{"name":"Spr_coin","path":"sprites/Spr_coin/Spr_coin.yy",},},
     {"id":{"name":"Spr_invisible","path":"sprites/Spr_invisible/Spr_invisible.yy",},},
