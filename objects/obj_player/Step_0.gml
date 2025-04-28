@@ -93,4 +93,16 @@ move_and_collide(move_x, move_y, Obj_platform_parent,4,0,0,walk_speed,jump_speed
 /// @DnDAction : YoYo Games.Collisions.If_Object_At
 /// @DnDVersion : 1.1
 /// @DnDHash : 493FEF62
-/// @DnDDisabled : 1
+/// @DnDArgument : "x_relative" "1"
+/// @DnDArgument : "y" "2"
+/// @DnDArgument : "y_relative" "1"
+/// @DnDArgument : "object" "collision_Temp_Tiles_death_zone"
+var l493FEF62_0 = instance_place(x + 0, y + 2, [collision_Temp_Tiles_death_zone]);
+if ((l493FEF62_0 > 0))
+{
+	/// @DnDAction : YoYo Games.Rooms.Restart_Room
+	/// @DnDVersion : 1
+	/// @DnDHash : 7296E98A
+	/// @DnDParent : 493FEF62
+	room_restart();
+}

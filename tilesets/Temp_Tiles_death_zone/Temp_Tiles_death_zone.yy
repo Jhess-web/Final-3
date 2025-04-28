@@ -1,13 +1,13 @@
 {
   "$GMTileSet":"",
-  "%Name":"TileSet1",
+  "%Name":"Temp_Tiles_death_zone",
   "autoTileSets":[],
   "macroPageTiles":{
     "SerialiseHeight":0,
     "SerialiseWidth":0,
     "TileSerialiseData":[],
   },
-  "name":"TileSet1",
+  "name":"Temp_Tiles_death_zone",
   "out_columns":4,
   "out_tilehborder":2,
   "out_tilevborder":2,

@@ -8,7 +8,7 @@
     "children":[],
     "name":"Default",
   },
-  "defaultScriptType":0,
+  "defaultScriptType":2,
   "Folders":[
     {"$GMFolder":"","%Name":"Animation Curves","folderPath":"folders/Animation Curves.yy","name":"Animation Curves","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Extensions","folderPath":"folders/Extensions.yy","name":"Extensions","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -35,6 +35,7 @@
   "name":"BLANK GAME",
   "resources":[
     {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
+    {"id":{"name":"Obj_button","path":"objects/Obj_button/Obj_button.yy",},},
     {"id":{"name":"Obj_cloud","path":"objects/Obj_cloud/Obj_cloud.yy",},},
     {"id":{"name":"Obj_coin","path":"objects/Obj_coin/Obj_coin.yy",},},
     {"id":{"name":"Obj_hud_coins","path":"objects/Obj_hud_coins/Obj_hud_coins.yy",},},
@@ -46,6 +47,7 @@
     {"id":{"name":"Obj_platform_parent","path":"objects/Obj_platform_parent/Obj_platform_parent.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"Obj_Speeder","path":"objects/Obj_Speeder/Obj_Speeder.yy",},},
+    {"id":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Spr_Bert_jump","path":"sprites/Spr_Bert_jump/Spr_Bert_jump.yy",},},
     {"id":{"name":"Spr_Bert_walking1","path":"sprites/Spr_Bert_walking1/Spr_Bert_walking1.yy",},},
@@ -63,11 +65,12 @@
     {"id":{"name":"Spr_Speeder","path":"sprites/Spr_Speeder/Spr_Speeder.yy",},},
     {"id":{"name":"spr_temp_death_zone","path":"sprites/spr_temp_death_zone/spr_temp_death_zone.yy",},},
     {"id":{"name":"Spr_Tileset1","path":"sprites/Spr_Tileset1/Spr_Tileset1.yy",},},
-    {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},},
+    {"id":{"name":"Temp_Tiles_death_zone","path":"tilesets/Temp_Tiles_death_zone/Temp_Tiles_death_zone.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"Menu","path":"rooms/Menu/Menu.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "templateType":"game",
