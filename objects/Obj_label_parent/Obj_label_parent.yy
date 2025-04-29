@@ -26,7 +26,7 @@
   "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[
-    {"$GMObjectProperty":"v1","%Name":"text_data","filters":[],"listItems":[],"multiselect":false,"name":"text_data","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"data1","varType":2,},
+    {"$GMObjectProperty":"v1","%Name":"text_data","filters":[],"listItems":[],"multiselect":false,"name":"text_data","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"\\n\\nBert The Ball","varType":2,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
