@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_teleporter_exit",
-    "path":"sprites/spr_teleporter_exit/spr_teleporter_exit.yy",
+    "name":"Sprite16_1",
+    "path":"sprites/Sprite16_1/Sprite16_1.yy",
   },
   "spriteMaskId":null,
   "visible":true,

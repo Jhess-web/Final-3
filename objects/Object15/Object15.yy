@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_platform_parent",
-    "path":"sprites/Spr_platform_parent/Spr_platform_parent.yy",
+    "name":"Spr_Speeder",
+    "path":"sprites/Spr_Speeder/Spr_Speeder.yy",
   },
   "spriteMaskId":null,
   "visible":true,

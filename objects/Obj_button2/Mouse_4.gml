@@ -3,4 +3,4 @@
 /// @DnDHash : 689945DC
 /// @DnDArgument : "room" "Room1"
 /// @DnDSaveInfo : "room" "Room1"
-room_goto(Room1);
+room_goto(Room0);

@@ -5,7 +5,7 @@
 /// @DnDArgument : "not" "1"
 /// @DnDSaveInfo : "obj" "obj_player"
 var l4A5AD8DA_0 = false;
-l4A5AD8DA_0 = instance_exists(obj_player);
+l4A5AD8DA_0 = instance_exists(obj_bert);
 if(!l4A5AD8DA_0)
 {
 	/// @DnDAction : YoYo Games.Common.Exit_Event
@@ -36,4 +36,4 @@ draw_set_font(Font1);
 /// @DnDArgument : "y_relative" "1"
 /// @DnDArgument : "caption" ""Coins: ""
 /// @DnDArgument : "var" "obj_player.coins"
-draw_text(x + 30, y + -15, string("Coins: ") + string(obj_player.coins));
+draw_text(x + 30, y + -15, string("Coins: ") + string(obj_bert.coins));
