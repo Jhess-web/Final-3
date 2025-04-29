@@ -31,3 +31,11 @@ draw_text(x + 0, y + 0,  + string(text_data));
 /// @DnDHash : 4F21F362
 draw_set_halign(fa_left);
 draw_set_valign(fa_top);
+
+/// @DnDAction : YoYo Games.Drawing.Set_Color
+/// @DnDVersion : 1
+/// @DnDHash : 465B390E
+/// @DnDArgument : "color" "$FFCCCCCC"
+draw_set_colour($FFCCCCCC & $ffffff);
+var l465B390E_0=($FFCCCCCC >> 24);
+draw_set_alpha(l465B390E_0 / $ff);
