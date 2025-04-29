@@ -1,20 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_label_text2",
+  "%Name":"Obj_trophy",
   "eventList":[],
   "managed":true,
-  "name":"Obj_label_text2",
-  "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"Obj_label_parent_1","path":"objects/Obj_label_parent_1/Obj_label_parent_1.yy",},"propertyId":{"name":"text_data","path":"objects/Obj_label_parent_1/Obj_label_parent_1.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\\nYou're\\n\\n\\n\\nWinner",},
-  ],
+  "name":"Obj_trophy",
+  "overriddenProperties":[],
   "parent":{
     "name":"Objects",
     "path":"folders/Objects.yy",
   },
-  "parentObjectId":{
-    "name":"Obj_label_parent_1",
-    "path":"objects/Obj_label_parent_1/Obj_label_parent_1.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -32,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"Spr_trophy",
+    "path":"sprites/Spr_trophy/Spr_trophy.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

@@ -20,3 +20,10 @@ effect_create_below(7, x + 0, y + 0, 0, $FF05FFFF & $ffffff);
 /// @DnDArgument : "expr_relative" "1"
 /// @DnDArgument : "var" "coins"
 coins += 1;
+
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1.1
+/// @DnDHash : 598012A4
+/// @DnDArgument : "soundid" "Sound2"
+/// @DnDSaveInfo : "soundid" "Sound2"
+audio_play_sound(Sound2, 0, 0, 1.0, undefined, 1.0);
