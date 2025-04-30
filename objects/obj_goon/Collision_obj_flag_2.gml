@@ -1,4 +1,4 @@
-/// @DnDAction : YoYo Games.Rooms.Previous_Room
+/// @DnDAction : YoYo Games.Rooms.Restart_Room
 /// @DnDVersion : 1
-/// @DnDHash : 24702877
-room_goto_previous();
+/// @DnDHash : 79B8625F
+room_restart();

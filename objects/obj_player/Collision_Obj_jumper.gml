@@ -1,10 +1,10 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 6A80E14D
-/// @DnDArgument : "expr" "walk_jump * 2"
+/// @DnDArgument : "expr" "jump_speed * 1.25"
 /// @DnDArgument : "expr_relative" "1"
-/// @DnDArgument : "var" "walk_jump"
-walk_jump += walk_jump * 2;
+/// @DnDArgument : "var" "jump_speed"
+jump_speed += jump_speed * 1.25;
 
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
